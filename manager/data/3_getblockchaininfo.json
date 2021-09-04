@@ -1,0 +1,47 @@
+{
+    "chain": "main",
+    "blocks": 1911927,
+    "headers": 1911927,
+    "bestblockhash": "0000000000006e8b2e0eb2c2ef08bb2ebf1cd7c708e84f5caf23ccee7683220a",
+    "difficulty": 110585.0393944075,
+    "difficulty_algorithm": "DGW-180",
+    "mediantime": 1630553414,
+    "verificationprogress": 0.9999985391970772,
+    "chainwork": "00000000000000000000000000000000000000000000002d857b2490a7f71f8d",
+    "size_on_disk": 19750049891,
+    "pruned": false,
+    "softforks": [],
+    "bip9_softforks": {
+        "assets": {
+            "status": "active",
+            "startTime": 1540944000,
+            "timeout": 1572480000,
+            "since": 435456
+        },
+        "messaging_restricted": {
+            "status": "active",
+            "startTime": 1578920400,
+            "timeout": 1610542800,
+            "since": 1092672
+        },
+        "transfer_script": {
+            "status": "active",
+            "startTime": 1588788000,
+            "timeout": 1620324000,
+            "since": 1225728
+        },
+        "enforce": {
+            "status": "active",
+            "startTime": 1593453600,
+            "timeout": 1624989600,
+            "since": 1306368
+        },
+        "coinbase": {
+            "status": "active",
+            "startTime": 1597341600,
+            "timeout": 1628877600,
+            "since": 1409184
+        }
+    },
+    "warnings": ""
+}

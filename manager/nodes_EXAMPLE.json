@@ -1,0 +1,14 @@
+[
+  {
+    "id": "node1",
+    "datadir": "c:\\ravennodes\\fullnode_1"
+  },
+  {
+    "id": "node2",
+    "datadir": "c:\\ravennodes\\fullnode_2"
+  },
+  {
+    "id": "node3",
+    "datadir": "c:\\ravennodes\\fullnode_3"
+  }
+]
