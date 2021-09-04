@@ -91,6 +91,11 @@ C:\Program Files\Raven\daemon
 
 ``` raven-cli -datadir=c:\\ravennodes\\fullnodemanager\\fullnode1 stop```
 
+### Performance and Anti-virus software
+Tell your anti-virus program to exclude ravend
+
+https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26
+
 
 
 
