@@ -74,6 +74,24 @@ Refresh the page for updates.
 The web page is accessible in your network.
 Let say your desktop computer has ip 192.168.1.55 then you can access the page from your smart phone on URL http://192.168.1.55:5000
 
+# MISC
+
+### Path
+add ravend and raven-cli to your as environment variables/path
+```
+C:\Program Files\Raven
+C:\Program Files\Raven\daemon
+```
+### Starting a node
+
+
+```ravend -datadir=c:\\ravennodes\\fullnodemanager\\fullnode1```
+
+### Stopping a node
+
+``` raven-cli -datadir=c:\\ravennodes\\fullnodemanager\\fullnode1 stop```
+
+
 
 
 
